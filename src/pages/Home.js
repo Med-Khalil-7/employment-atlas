@@ -7,7 +7,6 @@ import Footer from "../components/Footer";
 import NavBar from "../components/NavBar";
 import PricingAreaTwo from "../components/PricingAreaTwo";
 import ServiceAreaTwo from "../components/ServiceAreaTwo";
-import TestimonialOne from "../components/TestimonialOne";
 import WorkProcessTwo from "../components/WorkProcessTwo";
 
 const HomeTwo = () => {

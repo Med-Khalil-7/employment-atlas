@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import SearchBox from "../components/SearchBox";
-import Header from "../components/Header";
 import Title from "../components/Title";
 import SearchFilter from "../components/SearchFilter";
 import Subscribe from "../components/Subscribe";
