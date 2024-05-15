@@ -117,9 +117,6 @@ const NavBar = () => {
                 <Link to="/blog">Blog</Link>
               </li>
               <li>
-                <Link to="/blog-details">Blog Details</Link>
-              </li>
-              <li>
                 <Link to="/contact">Contact Us</Link>
               </li>
             </ul>
