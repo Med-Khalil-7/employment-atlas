@@ -70,7 +70,7 @@ const BlogAreaFour = () => {
                 <div className='thumb'>
                   <img
                     className='border-radius-5'
-                    src='/assetss/img/blog/6.png'
+                    src='/assets/img/blog/6.png'
                     alt='img'
                   />
                 </div>

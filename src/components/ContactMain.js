@@ -137,7 +137,7 @@ const ContactMain = () => {
             <div className='col-lg-4 col-md-6'>
               <div className='media single-contact-list'>
                 <div className='media-left'>
-                  <img src='/assetss/img/icon/15.svg' alt='img' />
+                  <img src='/assets/img/icon/15.svg' alt='img' />
                 </div>
                 <div className='media-body'>
                   <h5>Location</h5>

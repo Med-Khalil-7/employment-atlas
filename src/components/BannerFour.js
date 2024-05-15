@@ -11,7 +11,7 @@ const BannerFour = () => {
           <div className='bg-gray'>
             <img
               className='img-right'
-              src='/assetss/img/banner-4/1.png'
+              src='/assets/img/banner-4/1.png'
               alt='img'
             />
             <div className='container'>

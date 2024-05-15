@@ -92,7 +92,7 @@ const BannerFive = () => {
                   <div>
                     <img
                       className='main-img'
-                      src='/assetss/img/banner-5/1.png'
+                      src='/assets/img/banner-5/1.png'
                       alt='img'
                     />
                   </div>

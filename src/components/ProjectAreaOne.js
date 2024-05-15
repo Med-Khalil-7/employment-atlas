@@ -93,7 +93,7 @@ const ProjectAreaOne = () => {
             <div className='row'>
               <div className='col-md-4'>
                 <div className='single-project-inner'>
-                  <img src='/assetssss/img/gallery/1.png' alt='img' />
+                  <img src='/assetsss/img/gallery/1.png' alt='img' />
                   <div className='details'>
                     <span>
                       <FaPlus />
@@ -174,7 +174,7 @@ const ProjectAreaOne = () => {
                   </div>
                 </div>
                 <div className='single-project-inner'>
-                  <img src='/assetss/img/gallery/8.png' alt='img' />
+                  <img src='/assets/img/gallery/8.png' alt='img' />
                   <div className='details'>
                     <span>
                       <FaPlus />

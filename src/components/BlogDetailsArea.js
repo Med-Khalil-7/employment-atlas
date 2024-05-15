@@ -58,7 +58,7 @@ const BlogDetailsArea = () => {
       {
         title: "Condtum Integer urna at faucibus",
         date: "15 October",
-        image: "/assetss/img/widget/3.png",
+        image: "/assets/img/widget/3.png",
       },
     ],
   };

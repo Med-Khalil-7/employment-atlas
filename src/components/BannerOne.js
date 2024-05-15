@@ -17,7 +17,7 @@ const BannerOne = () => {
         />
         <img
           className='animate-img-2 left_image_bounce'
-          src='/assetsss/img/banner/5.svg'
+          src='/assetss/img/banner/5.svg'
           alt='img'
         />
         <div className='container'>

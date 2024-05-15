@@ -96,7 +96,7 @@ const AboutAreaSix = () => {
                         <div className='thumb mb-3'>
                           <img
                             className='rotate-img'
-                            src='/assetss/img/about/27.png'
+                            src='/assets/img/about/27.png'
                             alt='img'
                           />
                         </div>

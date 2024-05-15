@@ -59,7 +59,7 @@ const CaseStudyAreaOne = () => {
             <div className='col-lg-4 col-md-6'>
               <div className='single-case-study-inner'>
                 <div className='thumb'>
-                  <img src='/assetss/img/case-study/3.png' alt='img' />
+                  <img src='/assets/img/case-study/3.png' alt='img' />
                 </div>
                 <div className='details'>
                   <h5>

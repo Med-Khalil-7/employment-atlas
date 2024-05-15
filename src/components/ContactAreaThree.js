@@ -28,7 +28,7 @@ const ContactAreaThree = () => {
                 </h2>
                 <div className='media mb-3'>
                   <div className='media-left me-3'>
-                    <img src='/assetsss/img/icon/26.svg' alt='img' />
+                    <img src='/assetss/img/icon/26.svg' alt='img' />
                   </div>
                   <div className='media-body'>
                     <h5>Felis in quam volutpat </h5>

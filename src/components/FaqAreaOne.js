@@ -24,7 +24,7 @@ const FaqAreaOne = () => {
                 />
                 <img
                   className='animate-img-bottom-right top_image_bounce'
-                  src='/assetss/img/about/5.png'
+                  src='/assets/img/about/5.png'
                   alt='img'
                 />
               </div>

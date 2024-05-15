@@ -18,7 +18,7 @@ const AboutAreaThree = () => {
               <div className='about-thumb-inner mb-4 mb-lg-0'>
                 <img
                   className='main-img'
-                  src='/assetss/img/about/11.png'
+                  src='/assets/img/about/11.png'
                   alt='img'
                 />
               </div>
@@ -91,7 +91,7 @@ const AboutAreaThree = () => {
                   <img src='/assets/img/client/5.svg' alt='img' />
                 </div>
                 <div className='thumb'>
-                  <img src='/assetss/img/client/6.svg' alt='img' />
+                  <img src='/assets/img/client/6.svg' alt='img' />
                 </div>
               </Marquee>
             </div>

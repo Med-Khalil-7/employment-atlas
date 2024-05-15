@@ -20,7 +20,7 @@ const FaqAreaTwo = () => {
                   onClick={() => setOpen(true)}
                   className='video-play-btn-hover'
                 >
-                  <img src='/assetss/img/video.svg' alt='img' />{" "}
+                  <img src='/assets/img/video.svg' alt='img' />{" "}
                   <h6 className='d-inline-block'>how we work</h6>
                 </span>
                 <ModalVideo

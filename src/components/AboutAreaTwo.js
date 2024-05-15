@@ -18,7 +18,7 @@ const AboutAreaTwo = () => {
               <div className='about-thumb-inner'>
                 <img
                   className='main-img'
-                  src='/assetss/img/about/10.png'
+                  src='/assets/img/about/10.png'
                   alt='img'
                 />
               </div>

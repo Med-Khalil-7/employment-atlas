@@ -95,7 +95,7 @@ const BlogAreaFive = () => {
                   <ul className='blog-meta'>
                     <li>
                       <span>
-                        <img src='/assetss/img/testimonial/1.png' alt='img' />
+                        <img src='/assets/img/testimonial/1.png' alt='img' />
                       </span>{" "}
                       Admin
                     </li>
