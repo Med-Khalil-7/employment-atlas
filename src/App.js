@@ -14,6 +14,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import ScrollToTop from "react-scroll-to-top";
 import JobBoard from "./pages/JobBoard";
+import JobBoardAbout from "./pages/JobBoardAbout";
 function App() {
   useEffect(() => {
     AOS.init({
@@ -28,6 +29,7 @@ function App() {
       <Routes>
         <Route exact path='/' element={<Home/>} />
         <Route exact path='/job-board' element={<JobBoard/>} />
+        <Route exact path='/job-board-about' element={<JobBoardAbout />} />
         <Route exact path='/about' element={<About />} />
         <Route exact path='/team' element={<Team />} />
         <Route exact path='/team-details' element={<TeamDetails />} />

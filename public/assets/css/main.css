@@ -803,3 +803,50 @@ li {
   padding: 0;
   list-style-type: none;
 }
+
+
+
+
+
+
+.title-container ul {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 10px 0px;
+  display: block;
+  align-items: center;
+}
+
+.title-container li {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  white-space: nowrap;
+  display: inline-flex;
+}
+
+.title-container a {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.title-container a i {
+  margin-right: 5px;
+}
+
+
+.title-container .app-tooltip i {
+  margin-right: 5px;
+}
+
+
+.title-content p {
+  box-sizing: border-box;
+  line-height: 1.4;
+  margin: 10px 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 17px;
+}
