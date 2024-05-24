@@ -29,7 +29,7 @@ function App() {
       <Routes>
         <Route exact path='/' element={<Home/>} />
         <Route exact path='/job-board' element={<JobBoard/>} />
-        <Route exact path='/job-board-about' element={<JobBoardAbout />} />
+        <Route exact path='/job-board/:name' element={<JobBoardAbout />} />
         <Route exact path='/about' element={<About />} />
         <Route exact path='/team' element={<Team />} />
         <Route exact path='/team-details' element={<TeamDetails />} />

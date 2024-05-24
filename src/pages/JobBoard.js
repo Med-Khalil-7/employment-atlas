@@ -13,17 +13,17 @@ export default function JobBoard() {
   const thedata = [
     {
       index: 1,
-      company: { name: "Automattic", href: "https://fossfox.com/automattic" },
+      company: { name: "Automattic", href: "/job-board/automattic" },
       founded: "2005",
       building: {
         name: "WordPress.com",
         href: "https://wordpress.com/fr/?ref=fossfox",
       },
       stack: [
-        { name: "Docker", href: "https://fossfox.com/docker" },
-        { name: "K8s", href: "https://fossfox.com/kubernetes" },
-        { name: "PHP", href: "https://fossfox.com/php" },
-        { name: "+8 more", href: "https://fossfox.com/automattic" },
+        { name: "Docker", href: "/job-board/docker" },
+        { name: "K8s", href: "/job-board/kubernetes" },
+        { name: "PHP", href: "/job-board/php" },
+        { name: "+8 more", href: "/job-board/automattic" },
       ],
       oss: true,
       activity:
@@ -31,21 +31,21 @@ export default function JobBoard() {
       offices: [
         {
           name: "Sydney",
-          href: "https://fossfox.com/jobs-in-sydney-australia",
+          href: "/job-board/jobs-in-sydney-australia",
         },
-        { name: "+1 more", href: "https://fossfox.com/h2oai" },
+        { name: "+1 more", href: "/job-board/h2oai" },
       ],
       hiring: {
         name: "Sr SysAdmin",
-        href: "https://fossfox.com/senior-system-administrator-at-automattic",
+        href: "/job-board/senior-system-administrator-at-automattic",
       },
       compensation: "$130k-160k/yr USD",
-      type: { name: "Devops", href: "https://fossfox.com/devops-jobs" },
+      type: { name: "Devops", href: "/job-board/devops-jobs" },
       employment: {
         name: "Full-time",
-        href: "https://fossfox.com/full-time-jobs",
+        href: "/job-board/full-time-jobs",
       },
-      applyLink: { text: "apply", href: "https://fossfox.com/~5jwg" },
+      applyLink: { text: "apply", href: "/job-board/~5jwg" },
     },
   ];
 

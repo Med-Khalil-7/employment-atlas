@@ -797,6 +797,10 @@ li .app-link {
   text-decoration: underline;
 }
 
+.fa {
+  text-decoration: none;
+}
+
 
 
 li {
@@ -848,5 +852,8 @@ li {
   margin: 10px 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 17px;
+  font-size: 16px;
+}
+.title-content .fa-icon {
+  font-size: 12px;
 }
